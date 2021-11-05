@@ -1,0 +1,2 @@
+.App{display:flex;flex-wrap:wrap;justify-content:center;background-color:#f7f2ff}.title{text-transform:capitalize}.title__completed:after{color:#007c0a;content:" ✔ "}ul{margin-left:0;padding-left:0}li{list-style-type:none}.usersList{display:flex;flex-wrap:wrap;justify-content:center}.usersList__user{text-align:center;width:300px;padding:10px;margin:10px;background-color:#f9f7fc;box-shadow:2px 4px 1px #cfcbd6;border-color:#bfbac9;border-radius:10px}
+/*# sourceMappingURL=main.c116fb4e.chunk.css.map */
